@@ -1,6 +1,6 @@
 # Projeto Análise Exploratória de Dados em Python
 
-![Logo_Loggi](https://prod-files-secure.s3.us-west-2.amazonaws.com/41ec7aeb-d33e-4148-9f95-78cfb85203f2/1b4be0ac-5b6e-4ad7-af35-07d728988cc8/Logo-Loggi.png)
+![Logo_Loggi]([https://prod-files-secure.s3.us-west-2.amazonaws.com/41ec7aeb-d33e-4148-9f95-78cfb85203f2/1b4be0ac-5b6e-4ad7-af35-07d728988cc8/Logo-Loggi.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fmercado%2Fo-que-e-e-como-funciona-a-loggi%2F&psig=AOvVaw212hUTWf-inP0ggmMZA-uo&ust=1710633946137000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC4ipe-94QDFQAAAAAdAAAAABAI))
 
 # Introdução
 
