@@ -1,6 +1,7 @@
 # Projeto Análise Exploratória de Dados em Python
 
-![Logo_Loggi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fmercado%2Fo-que-e-e-como-funciona-a-loggi%2F&psig=AOvVaw212hUTWf-inP0ggmMZA-uo&ust=1710633946137000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC4ipe-94QDFQAAAAAdAAAAABAI)
+![Logo-Loggi](https://github.com/laurencedata/projeto-analise-dados/assets/124643687/428c0017-5fa5-46b6-905d-03619cff7f2f)
+
 
 # Introdução
 
