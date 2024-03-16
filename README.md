@@ -1,4 +1,4 @@
-# Projeto Análise Exploratória de Dados em Python
+# Projeto Análise Exploratória de Dados em Python 📊 
 
 ![Logo-Loggi](https://github.com/laurencedata/projeto-analise-dados/assets/124643687/428c0017-5fa5-46b6-905d-03619cff7f2f)
 
