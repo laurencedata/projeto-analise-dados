@@ -2,8 +2,7 @@
 
 ![Logo-Loggi](https://github.com/laurencedata/projeto-analise-dados/assets/124643687/428c0017-5fa5-46b6-905d-03619cff7f2f)
 
-
-# Introdução
+# 📌 Introdução 
 
 Com o constante crescimento do comércio eletrônico e a evolução das expectativas dos consumidores em relação à rapidez e eficiência das entregas, o setor de logística tornou-se um dos pilares fundamentais para o sucesso das empresas em um mercado cada vez mais competitivo.
 
@@ -15,13 +14,11 @@ Este repositório concentra-se na análise exploratória dos dados da Loggi, uma
 
 Nosso principal objetivo é fornecer à Loggi informações estratégicas que possam impulsionar melhorias significativas em seus processos de entrega, aumentando a eficácia, reduzindo custos operacionais e aprimorando a experiência do cliente. Ao explorar os dados, buscamos identificar padrões, tendências e possíveis gargalos, além de propor sugestões concretas para otimização da logística, roteirização mais eficiente, alocação de recursos e muito mais.
 
-Junte-se a nós nesta jornada de descoberta e aprimoramento da logística da Loggi!
-
-# Visão Geral do Projeto
+# 🗺️ Visão Geral do Projeto
 
 Este projeto visa explorar os dados, cujo o objetivo é identificar áreas de oportunidade e sugerir melhorias significativas em suas operações de entrega. Utilizando técnicas avançadas de análise exploratória de dados, buscamos entender padrões e tendências que impactam a eficiência operacional da Loggi, com o objetivo de fornecer recomendações práticas para otimizar processos logísticos, reduzir custos, minimizar tempos de entrega e aprimorar a experiência do cliente. 
 
-# Requerimentos
+# 📋 Requerimentos
 
 Para este projeto, utilizamos os próprios dados disponibilizados pela Loggi nos formatos "JSON”, "SHP”, "SHX” e "CSV”. A análise foi realizada utilizando ambiente VS Code Python, complementado com pacotes e bibliotecas de manipulação e visualização dos dados. O **dado bruto** é um formato semi-estruturado do tipo `JSON` com uma lista de instâncias de entregas. Cada instância representa um conjunto de **entregas** que devem ser realizadas pelos **veículos** do **hub** regional. Exemplo:
 
@@ -63,6 +60,10 @@ Para este projeto, utilizamos os próprios dados disponibilizados pela Loggi nos
         - lat: A latitude indica a posição ao norte ou ao sul do equador.
     - size: Tamanho do item específico.
 
-# Análise Exploratória de Dados (AED):
+# 🔎 Análise Exploratória de Dados (AED):
 
 A Análise Exploratória de Dados (AED) é uma abordagem estatística para investigar padrões, tendências e relações nos dados, com o objetivo de compreender seu significado e revelar insights úteis. Utilizando técnicas visuais e quantitativas, a AED ajuda a identificar padrões emergentes, outliers e relações entre variáveis, fornecendo uma base sólida para a tomada de decisões informadas e a formulação de hipóteses em estudos mais aprofundados. No contexto deste projeto, a AED é empregada para explorar e compreender os dados coletados, permitindo uma melhor compreensão do fenômeno em questão e orientando o desenvolvimento de estratégias e análises adicionais.
+
+Agora iremos abrir o arquivo Projeto_Loggi_AED.ipynb e conferir afundo a análise feita.
+
+Junte-se a nós nesta jornada de descoberta e aprimoramento da logística da Loggi!
