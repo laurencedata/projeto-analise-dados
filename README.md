@@ -1,6 +1,6 @@
 # Projeto Análise Exploratória de Dados em Python
 
-![Logo-Loggi.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41ec7aeb-d33e-4148-9f95-78cfb85203f2/1b4be0ac-5b6e-4ad7-af35-07d728988cc8/Logo-Loggi.png)
+![Logo_Loggi](https://prod-files-secure.s3.us-west-2.amazonaws.com/41ec7aeb-d33e-4148-9f95-78cfb85203f2/1b4be0ac-5b6e-4ad7-af35-07d728988cc8/Logo-Loggi.png)
 
 # Introdução
 
