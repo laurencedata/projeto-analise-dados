@@ -8,9 +8,9 @@ Com o constante crescimento do comércio eletrônico e a evolução das expectat
 
 Neste cenário desafiador, a Loggi destaca-se como uma das principais empresas de logística do mercado, oferecendo soluções inovadoras e tecnologicamente avançadas para atender às demandas de seus clientes de forma ágil e confiável.
 
-É uma startup unicórnio brasileira de tecnologia focada em logística, avaliada em US$ 1 bilhão, com investimentos de grandes empresas como SoftBank, Microsoft, GGV Capital, Monashees e Kaszek (fonte). Inicialmente, a empresa começou suas operações entregando documentos entre 2013 e 2014. Posteriormente, expandiu seu escopo para o segmento de e-commerce e, desde 2017, tem atuado também nas entregas de alimentos.
+A Loggi é uma startup unicórnio brasileira de tecnologia focada em logística, avaliada em US$ 1 bilhão, com investimentos de grandes empresas como SoftBank, Microsoft, GGV Capital, Monashees e Kaszek (fonte). Inicialmente, a empresa começou suas operações entregando documentos entre 2013 e 2014. Posteriormente, expandiu seu escopo para o segmento de e-commerce e, desde 2017, tem atuado também nas entregas de alimentos.
 
-Este repositório concentra-se na análise exploratória dos dados da Loggi, uma abordagem essencial para entender melhor o desempenho atual da empresa e identificar áreas de oportunidade para aprimoramento. Utilizando técnicas estatísticas e visuais, buscamos extrair insights valiosos dos dados operacionais, realizando o rastreamento de entregas inicializando pelos Hubs (ponto central de conexão onde ocorre a concentração de entrega redistribuição/transferência de mercadorias) por toda a região do Distrito Federal. 
+Este repositório concentra-se na análise exploratória dos dados fornecidos pela Loggi, uma abordagem essencial para entender melhor o desempenho atual da empresa e identificar áreas de oportunidade para aprimoramento. Utilizando técnicas estatísticas e visuais, buscamos extrair insights valiosos dos dados operacionais, realizando o rastreamento de entregas inicializando pelos Hubs (ponto central de conexão onde ocorre a concentração de entrega redistribuição/transferência de mercadorias) por toda a região do Distrito Federal. 
 
 Nosso principal objetivo é fornecer à Loggi informações estratégicas que possam impulsionar melhorias significativas em seus processos de entrega, aumentando a eficácia, reduzindo custos operacionais e aprimorando a experiência do cliente. Ao explorar os dados, buscamos identificar padrões, tendências e possíveis gargalos, além de propor sugestões concretas para otimização da logística, roteirização mais eficiente, alocação de recursos e muito mais.
 
@@ -64,6 +64,5 @@ Para este projeto, utilizamos os próprios dados disponibilizados pela Loggi nos
 
 A Análise Exploratória de Dados (AED) é uma abordagem estatística para investigar padrões, tendências e relações nos dados, com o objetivo de compreender seu significado e revelar insights úteis. Utilizando técnicas visuais e quantitativas, a AED ajuda a identificar padrões emergentes, outliers e relações entre variáveis, fornecendo uma base sólida para a tomada de decisões informadas e a formulação de hipóteses em estudos mais aprofundados. No contexto deste projeto, a AED é empregada para explorar e compreender os dados coletados, permitindo uma melhor compreensão do fenômeno em questão e orientando o desenvolvimento de estratégias e análises adicionais.
 
-Agora iremos abrir o arquivo Projeto_Loggi_AED.ipynb e conferir afundo a análise feita.
+Agora iremos abrir o arquivo [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/projeto-analise-dados/blob/main/Projeto_Loggi_AED.ipynb) e conferir afundo a análise feita:
 
-Junte-se a nós nesta jornada de descoberta e aprimoramento da logística da Loggi!
