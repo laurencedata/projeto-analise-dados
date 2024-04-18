@@ -62,7 +62,7 @@ Para este projeto, utilizamos os próprios dados disponibilizados pela Loggi nos
 
 # 🔎 Análise Exploratória de Dados (AED):
 
-A Análise Exploratória de Dados (AED) é uma abordagem estatística para investigar padrões, tendências e relações nos dados, com o objetivo de compreender seu significado e revelar insights úteis. Utilizando técnicas visuais e quantitativas, a AED ajuda a identificar padrões emergentes, outliers e relações entre variáveis, fornecendo uma base sólida para a tomada de decisões informadas e a formulação de hipóteses em estudos mais aprofundados. No contexto deste projeto, a AED é empregada para explorar e compreender os dados coletados, permitindo uma melhor compreensão do fenômeno em questão e orientando o desenvolvimento de estratégias e análises adicionais.
+A Análise Exploratória de Dados (AED) é uma abordagem estatística para investigar padrões, tendências e relações nos dados, com o objetivo de compreender seu significado e revelar insights úteis. Utilizando técnicas visuais e quantitativas, a AED ajuda a identificar padrões emergentes, outliers e relações entre variáveis, fornecendo uma base sólida para a tomada de decisões informadas e a formulação de hipóteses em estudos mais aprofundados. No contexto deste projeto, esse tipo de análise é empregada para explorar e compreender os dados coletados, permitindo uma melhor compreensão do fenômeno em questão e orientando o desenvolvimento de estratégias e análises adicionais.
 
 Agora iremos abrir o arquivo [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/projeto-analise-dados/blob/main/Projeto_Loggi_AED.ipynb) e conferir afundo a análise feita.
 
